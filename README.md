@@ -97,23 +97,40 @@
      observable patterns.It is the final step and is used to for decision-making.
 
 # Challenges of Big Data
+
 ## Heterogenity and Incompleteness:
-The data is generated from variety of sources like texts,images and videos which leads to heterogeneous data.While processing it may causes some inconsistencies.We may loose some information during interrelation or connection.
-Incompletness is nothing but missing information due to some disturbances in sensors while reading the data.Generally imputation is used to fill the null values with most frequent occurrences.
+
+    The data is generated from variety of sources like texts,images and videos which leads to heterogeneous data.While processing
+    it may causes some inconsistencies.We may loose some information during interrelation or connection.Incompletness is nothing but
+    missing information due to some disturbances in sensors while reading the data.Generally imputation is used to fill the null values
+    with most frequent occurrences.
 
 ## Scale:
-As data is generated in huge volumes it is a complex task to store them.The volume is increasing so fast than the processor or CPU speed which poses a challenge.To store huge volumes of data we need a techniques like cloud computing.
+
+    As data is generated in huge volumes it is a complex task to store them.The volume is increasing so fast than the processor
+    or CPU speed which poses a challenge.To store huge volumes of data we need a techniques like cloud computing.
 
 ## Timeliness:
-The velocity of big data is so fast that it becomes difficult to process the data which may cause a delay in the analysis.
-A detailed study of a problem is unlikely to be possible in real time. As a result, we must prepare partial findings ahead of time so that a tiny amount of incremental computing with fresh data may be employed to arrive at a speedy judgment.Index based searching algorithms are used to scan the data which reduces the speed.
+
+    The velocity of big data is so fast that it becomes difficult to process the data which may cause a delay in the analysis.
+    A detailed study of a problem is unlikely to be possible in real time. As a result, we must prepare partial findings ahead
+    of time so that a tiny amount of incremental computing with fresh data may be employed to arrive at a speedy judgment.Index
+    based searching algorithms are used to scan the data which reduces the speed.
 
 ## Privacy:
-During the process of collecting data there might be some issues of privacy.Some of the content may be sensitive.Data breaching and modification of content may cause violations.
-We can address this issues by using authentications,encryption and access controls and implementing necessary communication protocols.
+
+    During the process of collecting data there might be some issues of privacy.Some of the content may be sensitive.Data breaching
+    and modification of content may cause violations.We can address this issues by using authentications,encryption and access
+    controls and implementing necessary communication protocols.
 
 ## Human Collaboration:
-It is the interaction between humans and computers.Where we take into consideration things like feedback and guidance from experts.In some cases human ability to decipher things surpasses computer algorithms.So we need to consider inputs from humans as well when analysing some patterns.The challenge here is they may be from different locations,and different time-frame so it might be difficult to input this data.Each one may have different perspectives which may create conflicts.There may be some biased information as well which need to be carefully analyzed.Crowd-sourcing is one such example of this.For example Wikipedia it has several answers to a single question.
+
+    It is the interaction between humans and computers.Where we take into consideration things like feedback and guidance from experts.
+    In some cases human ability to decipher things surpasses computer algorithms.So we need to consider inputs from humans as well when
+    analysing some patterns.The challenge here is they may be from different locations,and different time-frame so it might be difficult
+    to input this data.Each one may have different perspectives which may create conflicts.There may be some biased information as well
+    which need to be carefully analyzed.Crowd-sourcing is one such example of this.For example Wikipedia it has several answers to a 
+    single question.
 
 ## References
 
